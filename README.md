@@ -1,6 +1,8 @@
 # WebProject
 좋아하는 장르를 스스로 선택하고 영화 예매까지 가능한 영화 예매 사이트
 
+
+
 1) 메인페이지
 <div>
   <img src="https://user-images.githubusercontent.com/47288015/102312463-1c82e100-3fb2-11eb-9d79-392f7dd730d0.png" width="300">
@@ -29,6 +31,8 @@
 <div>
   <img src="https://user-images.githubusercontent.com/47288015/102312561-489e6200-3fb2-11eb-89d1-274b9cccc5aa.png" width="300">
 </div>
+
+
 
 8개의 장르 중 자신이 좋아하는 영화의 장르를 회원가입시 선택하고, 해당 장르에 속한 영화들을 찾아보며 
 찜, 예매, 상세정보 확인 등의 작업을 할 수 있는 간단 영화 페이지입니다.
