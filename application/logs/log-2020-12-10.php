@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-12-10 05:16:34 --> 404 Page Not Found: Boaform/admin
+ERROR - 2020-12-10 05:29:31 --> 404 Page Not Found: Config/getuser
+ERROR - 2020-12-10 07:43:03 --> 404 Page Not Found: Config/getuser
+ERROR - 2020-12-10 07:57:57 --> 404 Page Not Found: Shell/index
+ERROR - 2020-12-10 08:13:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-10 08:13:39 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2020-12-10 08:13:45 --> 404 Page Not Found: Well-known/security.txt
+ERROR - 2020-12-10 08:13:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-12-10 09:35:10 --> 404 Page Not Found: Actuator/health
+ERROR - 2020-12-10 11:55:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-10 12:28:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-10 12:28:42 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2020-12-10 12:28:43 --> 404 Page Not Found: Well-known/security.txt
+ERROR - 2020-12-10 12:28:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-12-10 13:28:49 --> 404 Page Not Found: 0bef/index
+ERROR - 2020-12-10 14:19:13 --> 404 Page Not Found: Shell/index
+ERROR - 2020-12-10 14:29:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-12-10 14:53:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-10 14:53:56 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-12-10 17:02:51 --> 404 Page Not Found: HNAP1/index
+ERROR - 2020-12-10 18:57:31 --> 404 Page Not Found: Hudson/index
+ERROR - 2020-12-10 20:51:52 --> 404 Page Not Found: Public/index.php
+ERROR - 2020-12-10 20:51:52 --> 404 Page Not Found: Public/index.php
+ERROR - 2020-12-10 20:51:53 --> 404 Page Not Found: Public/hydra.php
+ERROR - 2020-12-10 21:32:39 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-12-10 22:10:45 --> 404 Page Not Found: 1121244280:63435/index
+ERROR - 2020-12-10 22:20:08 --> 404 Page Not Found: Config/getuser
