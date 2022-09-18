@@ -1,37 +1,38 @@
-# WebProject
-좋아하는 장르를 스스로 선택하고 영화 예매까지 가능한 영화 예매 사이트
+## 2020_Movie Repository
+`PHP` 를 활용한 영화 예매 프로젝트
+- 챕터별 간단 공부 코드 
+- Simple Project 2개
+- Extra Project 1개
 
+## 사용 기술
+- HTML, CSS, Javascript
+- PHP
+- CodeIgniter3
+- phpmyadmin
+- mysql
 
-
+## 실행화면
 1) 메인페이지
 <div>
-  <img src="https://user-images.githubusercontent.com/47288015/102312463-1c82e100-3fb2-11eb-9d79-392f7dd730d0.png" width="300">
-  <img src="https://user-images.githubusercontent.com/47288015/102312500-2d335700-3fb2-11eb-9ee0-583fb8119683.png" width="340">
+  <img src="https://user-images.githubusercontent.com/47288015/190914585-5aefcd16-aa85-4df2-9b1a-dc49d5cd76fe.png" width="300">
 </div>
 
 2) 회원가입 / 로그인 페이지
 <div>
-  <img src="https://user-images.githubusercontent.com/47288015/102312514-345a6500-3fb2-11eb-978c-0c21834ebaa8.png" width="300">
-  <img src="https://user-images.githubusercontent.com/47288015/102312535-3b817300-3fb2-11eb-9609-e8c357739290.png" width="500">
+  <img src="https://user-images.githubusercontent.com/47288015/190914588-defae214-687a-468b-8d74-6a960d23b10f.png" width="340">
+  <img src="https://user-images.githubusercontent.com/47288015/190914636-97bfbe93-a22f-4ba3-8555-8460ead66123.png" width="300">
 </div>
 
 3) 영화 상세정보 페이지
 <div>
-  <img src="https://user-images.githubusercontent.com/47288015/102312626-67045d80-3fb2-11eb-81dd-e78d735d6623.png" width="300">
-  <img scr="https://user-images.githubusercontent.com/47288015/102312650-708dc580-3fb2-11eb-9ba5-1fb9fc4bfa71.png" width="300">
+  <img src="https://user-images.githubusercontent.com/47288015/190914592-b1945c1e-ee06-49a5-a4dd-350f171511b8.png" width="400">
 </div>
             
 4) 영화 예매 페이지
 <div>
-  <img src="https://user-images.githubusercontent.com/47288015/102312582-52c06080-3fb2-11eb-849a-b0970c8fb1fc.png" width="300">
-  <img src="https://user-images.githubusercontent.com/47288015/102312614-5e138c00-3fb2-11eb-8b81-093dfc711633.png" width="300">
+  <img src="https://user-images.githubusercontent.com/47288015/190914593-a1f53643-995f-4fbe-ac0f-329abb42aba7.png" width="250">
+  <img src="https://user-images.githubusercontent.com/47288015/190914598-ac851367-87fa-48dc-9773-e4c381d15389.png" width="300">
 </div>
-
-5) 영화 예매 확인 페이지
-<div>
-  <img src="https://user-images.githubusercontent.com/47288015/102312561-489e6200-3fb2-11eb-89d1-274b9cccc5aa.png" width="300">
-</div>
-
 
 
 8개의 장르 중 자신이 좋아하는 영화의 장르를 회원가입시 선택하고, 해당 장르에 속한 영화들을 찾아보며 
